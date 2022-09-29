@@ -3,6 +3,11 @@ code sample for sample ads. Admob Ads
 
 
 
+# Implement AdMob banner ad
+
+here's the link for peice of code to implement admob banner ad [sample code](https://github.com/vijaysoren/Sample-Ads-impliments/commit/9b77b159a6c3c6efa1ccb2f7d08033167da6beef?diff=unified)
+
+
 
 # Implement AdMob interstitial ad
   ---------------------------------
