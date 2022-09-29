@@ -38,8 +38,12 @@ here's the link for peice of code to implement admob banner ad [sample code](htt
      
      impliment code
      
-     let's test
+Here's the link to peice of code to implement [admob intertitial ad](https://github.com/vijaysoren/Sample-Ads-impliments/blob/main/Android/AdMob/SampleAds/app/src/main/java/com/vijaysoren/sampleads/MainActivity.java)
      
+let's test
+     
+run the code on your device
+
      wooooo! our interstitial ad has successfully loaded
      
      ---------------------------------------------------------------------------------------
