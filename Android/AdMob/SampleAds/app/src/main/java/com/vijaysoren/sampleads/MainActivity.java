@@ -15,8 +15,6 @@ import com.google.android.gms.ads.interstitial.InterstitialAd;
 
 public class MainActivity extends AppCompatActivity {
 
-    private InterstitialAd mInterstitialAd;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
