@@ -68,7 +68,7 @@ run the code on your device
              
 Let's write some code.
              
-I've some codes that I've already written to save time those I'll copy and paste in my app.
+Here is the link to code to [admob native ad](https://github.com/vijaysoren/Sample-Ads-impliments/blob/5e9dce4c5e0cf7ede8873450af2c052c80ec970a/Android/AdMob/SampleAds/app/src/main/java/com/vijaysoren/sampleads/NativeAdActivity.java)
              
 #### step 1. Create a native ad container. This container will hold a native ad.
              
