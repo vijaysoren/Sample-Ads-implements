@@ -72,7 +72,7 @@ Here is the link to code to [admob native ad](https://github.com/vijaysoren/Samp
              
 #### step 1. Create a [native ad container](Android/AdMob/SampleAds/app/src/main/res/layout/activity_native_ad.xml). This container will hold a native ad.
              
-#### step 2. Create a native ad layout.
+#### step 2. Create a [native ad layout](Android/AdMob/SampleAds/app/src/main/res/layout/native_ad_layout.xml).
              
 #### step 3. Create a style widget for ad attribution.
               
