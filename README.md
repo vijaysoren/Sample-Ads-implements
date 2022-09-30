@@ -7,7 +7,7 @@ code sample for sample ads. Admob Ads
 
 here's the link for peice of code to implement admob banner ad [sample code](https://github.com/vijaysoren/Sample-Ads-impliments/commit/9b77b159a6c3c6efa1ccb2f7d08033167da6beef?diff=unified)
 
-
+![](https://github.com/vijaysoren/Sample-Ads-impliments/blob/f4b501d1f6abcf2e4ad524a134128d0bba864f02/screenshots/Screenshot_20220930-101551_SampleAds.jpg)
 
 
 
