@@ -9,6 +9,8 @@ here's the link for peice of code to implement admob banner ad [sample code](htt
 
 
 
+
+
 # Implement AdMob interstitial ad
   ---------------------------------
                 
@@ -77,6 +79,6 @@ I've some codes that I've already written to save time those I'll copy and paste
               
 
      
-     
+![](https://github.com/vijaysoren/Sample-Ads-impliments/blob/4790d23963179daf20c4b56ecc6ea6276b0bb080/screenshots/Screenshot_20220930-093824_SampleAds.jpg)
      
    
