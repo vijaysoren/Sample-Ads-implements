@@ -61,18 +61,18 @@ run the code on your device
              3. Initialize Google Mobile Ads SDK in your launcher activity or once in your app.
              
              
-             Let's write some code.
+Let's write some code.
              
-             I've some codes that I've already written to save time those I'll copy and paste in my app.
+I've some codes that I've already written to save time those I'll copy and paste in my app.
              
-             step 1. Create a native ad container. This container will hold a native ad.
+#### step 1. Create a native ad container. This container will hold a native ad.
              
-             step 2. Create a native ad layout.
+#### step 2. Create a native ad layout.
              
-             step 3. Create a style widget for ad attribution.
+#### step 3. Create a style widget for ad attribution.
               
               
-              Run your app. Native app mostly work on physical. To show on virtual device you need to add extra settings.
+     Run your app. Native app mostly work on physical. To show on virtual device you need to add extra settings.
               
               
 
