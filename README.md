@@ -48,6 +48,9 @@ run the code on your device
 
      wooooo! our interstitial ad has successfully loaded
      
+     
+![](https://github.com/vijaysoren/Sample-Ads-impliments/blob/03cf5a245ca416cd88eb4738ff8d16d7efbc767e/screenshots/Screenshot_20220930-101547_SampleAds.jpg)
+     
      ---------------------------------------------------------------------------------------
      
      
