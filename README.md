@@ -74,7 +74,7 @@ Here is the link to code to [admob native ad](https://github.com/vijaysoren/Samp
              
 #### step 2. Create a [native ad layout](Android/AdMob/SampleAds/app/src/main/res/layout/native_ad_layout.xml).
              
-#### step 3. Create a style widget for ad attribution.
+#### step 3. Create a [style widget](Android/AdMob/SampleAds/app/src/main/res/values/themes.xml) for ad attribution.
               
               
      Run your app. Native app mostly work on physical. To show on virtual device you need to add extra settings.
