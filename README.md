@@ -1,4 +1,4 @@
-# Sample-Ads-impliments
+# Sample-Ads-implements
 code sample for sample ads. Admob Ads
 
 
@@ -38,7 +38,7 @@ here's the link for peice of code to implement admob banner ad [sample code](htt
             
 ## Step 4. Initialize Google Mobile Ads SDK
      
-     impliment code
+     implement code
      
 Here's the link to peice of code to implement [admob intertitial ad](https://github.com/vijaysoren/Sample-Ads-impliments/blob/main/Android/AdMob/SampleAds/app/src/main/java/com/vijaysoren/sampleads/MainActivity.java)
      
