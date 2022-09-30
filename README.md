@@ -70,7 +70,7 @@ Let's write some code.
              
 Here is the link to code to [admob native ad](https://github.com/vijaysoren/Sample-Ads-impliments/blob/5e9dce4c5e0cf7ede8873450af2c052c80ec970a/Android/AdMob/SampleAds/app/src/main/java/com/vijaysoren/sampleads/NativeAdActivity.java)
              
-#### step 1. Create a native ad container. This container will hold a native ad.
+#### step 1. Create a [native ad container](Android/AdMob/SampleAds/app/src/main/res/layout/activity_native_ad.xml). This container will hold a native ad.
              
 #### step 2. Create a native ad layout.
              
