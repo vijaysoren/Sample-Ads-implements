@@ -50,4 +50,33 @@ run the code on your device
      
      
      
+# Implement Admob native ad
+
+ To configure AdMob SDK in your project,
+             
+             1. Add Admob SDk dependency in your project's app level build.gradle file and then click sync.
+             
+             2. Add Admob APP ID in your androidmanifest file
+             
+             3. Initialize Google Mobile Ads SDK in your launcher activity or once in your app.
+             
+             
+             Let's write some code.
+             
+             I've some codes that I've already written to save time those I'll copy and paste in my app.
+             
+             step 1. Create a native ad container. This container will hold a native ad.
+             
+             step 2. Create a native ad layout.
+             
+             step 3. Create a style widget for ad attribution.
+              
+              
+              Run your app. Native app mostly work on physical. To show on virtual device you need to add extra settings.
+              
+              
+
+     
+     
+     
    
