@@ -126,3 +126,5 @@ Here is the link to code to [admob native ad](https://github.com/vijaysoren/Samp
 
 ![](https://github.com/vijaysoren/Sample-Ads-implements/blob/2aad0af6e71cd2ebac60ed3e7a0e8a894547bc32/screenshots/Screenshot_20221019_155331.png)
 
+Full code to [Rewarded Ad](https://github.com/vijaysoren/Sample-Ads-implements/blob/c3ff71a562226efcad3dbbf283395be35eb5b06a/Android/AdMob/SampleAds/app/src/main/java/com/vijaysoren/sampleads/RewardedAdActivity.java)
+
