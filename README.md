@@ -122,3 +122,7 @@ Here is the link to code to [admob native ad](https://github.com/vijaysoren/Samp
 ![](https://github.com/vijaysoren/Sample-Ads-impliments/blob/4790d23963179daf20c4b56ecc6ea6276b0bb080/screenshots/Screenshot_20220930-093824_SampleAds.jpg)
      
    
+# Implement AdMob Rewarded Ad
+
+![](https://github.com/vijaysoren/Sample-Ads-implements/blob/2aad0af6e71cd2ebac60ed3e7a0e8a894547bc32/screenshots/Screenshot_20221019_155331.png)
+
